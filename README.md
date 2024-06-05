@@ -6,3 +6,7 @@ This app is used to provide users with live score updates for bioblitz battles t
 The Bioblitz Battle app is RShiny web app built specific for mobile devices using the shinyMobile package. It uses the RMariaDB package to access the RPP database and the rinat package to download data from iNaturalist (although I have actually adapted the rinat functions myself since they had some problems initially).
 
 This is one of a few iterations of app I and other team members have built for this purpose and the first to be successful enough for regular use. I think the reason why this one works and others have failed is that the other weren't built specifically for mobile devices.
+
+This deve version of the app has been published here: https://therockpoolproject.shinyapps.io/bioblitz_battle_inat_dev/
+
+And is hosted on a shiny.io server
